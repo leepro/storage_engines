@@ -5,6 +5,7 @@
 * RCFile: A Fast and Space-efficient Data Placement Structure in MapReduce-based Warehouse Systems https://en.wikipedia.org/wiki/RCFile
 * Apache Parquet: https://parquet.apache.org/
 * Apache Avro: https://avro.apache.org/
+* Apache ORC: https://orc.apache.org/
 
 ## Databases
 
