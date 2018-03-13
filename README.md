@@ -22,3 +22,7 @@
 
 * C-Store, http://db.lcs.mit.edu/projects/cstore/ (MIT)
 * BlinkDB, http://blinkdb.org/ (MIT, UC Berkeley)
+
+### NVM
+
+* [Rethinking Applications for the NVM Era](https://www.infoq.com/presentations/applications-nvm)
